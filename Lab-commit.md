@@ -96,7 +96,7 @@ update 23:15 May 27th, 2018
 |[17302010081](https://github.com/LuoRongLuoRong/fdu-17ss-web-lab )|通过|
 |[17302010082](https://github.com/bixiongquan/fdu-17ss-web-lab)|通过|
 |[17302010083](https://github.com/olallaland/fdu-17ss-web-lab )|通过|
-|[17302010084](https://github.com/jeffrey0706)|未提交/提交失败|
+|[17302010084](https://github.com/jeffrey0706/fdu-17ss-web-lab)|未提交/提交失败|
 |[17302016002](https://github.com/17sstmk/fdu-17ss-web-lab )|基本过关|
 |17302016003||
 |[17307110010](https://github.com/Lame-Lamb/fdu-17ss-web-lab )|通过|
