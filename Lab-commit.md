@@ -28,7 +28,7 @@ update  22:30 May 27th, 2018
 |[17302010013](https://github.com/olnytowalk/Lab)|通过|
 |[17302010014](https://github.com/Vkshiki/fdu-17ss-web-lab )|通过|
 |[17302010015](https://github.com/shixiaji/lab)|通过|
-|[17302010016](https://github.com/ppsh41/lab2)|h1, h2, h3, h4, h5 & 玄学 bug|
+|[17302010016](https://github.com/ppsh41/lab2)|h1, h2, h3, h4, h5 & head|
 |[17302010017](https://github.com/CrazyBlueStorm/17302010017)|通过|
 |[17302010018](https://github.com/UOHZYRAHCAZ/fdu-17ss-web-lab )|通过|
 |[17302010019](https://github.com/LiuJian000/fdu-17ss-web-lab)|通过|
