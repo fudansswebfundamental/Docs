@@ -20,7 +20,7 @@ update  22:30 May 27th, 2018
 |[17302010005](https://github.com/LHQ005/fdu-17ss-web-lab )|基本过关|
 |[17302010006](https://github.com/zxylalalalala/fdu-17ss-web-lab)|通过|
 |[17302010007](https://github.com/whisIS/fdu-17ss-web-lab )|通过|
-|[17302010008](https://github.com/smiaok)|li tag & 资源错误|
+|[17302010008](https://github.com/smiaok/LAB)|通过|
 |[17302010009](https://github.com/lyf21/17ss-Web-Lab)|通过|
 |[17302010010](https://github.com/Reimugo/fdu-17ss-web-lab )|通过|
 |[17302010011](https://github.com/TMXwxm/fdu-17ss-web-lab )|通过|
@@ -42,13 +42,13 @@ update  22:30 May 27th, 2018
 |[17302010027](https://github.com/gjfang/fdu-17ss-web-lab )|通过|
 |[17302010028](https://github.com/250here/fdu-17ss-web-lab )|通过|
 |[17302010029](https://github.com/Lu-yq/Lab2-Lu)|基本过关|
-|[17302010030](https://github.com/Shenjiahui)|li tag & head|
+|[17302010030](https://github.com/Shenjiahui/17302010030)|通过|
 |[17302010031](https://github.com/yongli0510/fdu-17ss-web-lab )|通过|
 |[17302010032](https://github.com/FDYZHao/fdu-17ss-web-lab )|通过|
 |[17302010033](https://github.com/zhan-zhai/fdu-17ss-web-lab)|通过|
 |[17302010034](https://github.com/ddf1826120803/DDF-WebLab)|通过|
 |[17302010035](https://github.com/17302010035/17302010035_lab02)|通过|
-|[17302010036](https://github.com/ShiningSelina)|未提交/提交失败|
+|[17302010036](https://github.com/ShiningSelina/Lab)|请好好读书|
 |[17302010037](https://github.com/DarkSpooky)|head|
 |[17302010038](https://github.com/whw19991003/fdu-17ss-web-lab )|通过|
 |[17302010039](https://github.com/Kyle-Dwyer)|通过|
@@ -73,7 +73,7 @@ update  22:30 May 27th, 2018
 |[17302010058](https://github.com/fudanwangqidi/fdu-17ss-web-lab )|通过|
 |[17302010059](https://github.com/clearlove1/fdu-17ss-web-lab )|通过|
 |[17302010060](https://github.com/chenghgh/fdu-17ss-web-lab )|通过|
-|[17302010061](https://github.com/lzhnl/web1-17302010061)|li tag|
+|[17302010061](https://github.com/lzhnl/web1-17302010061)|通过|
 |[17302010062](https://github.com/InaYan/lab2)|通过|
 |[17302010063](https://github.com/Currycurrycurry)|通过|
 |[17302010064](https://github.com/comingwinter1234/labwork)|通过|
