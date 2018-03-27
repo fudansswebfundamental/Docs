@@ -49,7 +49,7 @@ update 23:15 May 27th, 2018
 |[17302010034](https://github.com/ddf1826120803/DDF-WebLab)|通过|
 |[17302010035](https://github.com/17302010035/17302010035_lab02)|通过|
 |[17302010036](https://github.com/ShiningSelina/Lab)|请好好读书|
-|[17302010037](https://github.com/DarkSpooky/fdu-17ss-web-lab)|head|
+|[17302010037](https://github.com/DarkSpooky/fdu-17ss-web-lab)|通过|
 |[17302010038](https://github.com/whw19991003/fdu-17ss-web-lab )|通过|
 |[17302010039](https://github.com/Kyle-Dwyer)|通过|
 |[17302010040](https://github.com/17302010040/Lab)|通过|
@@ -96,7 +96,7 @@ update 23:15 May 27th, 2018
 |[17302010081](https://github.com/LuoRongLuoRong/fdu-17ss-web-lab )|通过|
 |[17302010082](https://github.com/bixiongquan/fdu-17ss-web-lab)|通过|
 |[17302010083](https://github.com/olallaland/fdu-17ss-web-lab )|通过|
-|[17302010084](https://github.com/jeffrey0706/fdu-17ss-web-lab)|未提交/提交失败|
+|[17302010084](https://github.com/jeffrey0706/fdu-17ss-web-lab)|通过|
 |[17302016002](https://github.com/17sstmk/fdu-17ss-web-lab )|基本过关|
 |17302016003||
 |[17307110010](https://github.com/Lame-Lamb/fdu-17ss-web-lab )|通过|
