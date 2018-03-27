@@ -1,6 +1,6 @@
 Lab-提交情况
 ---------------
-update 23:00 May 27th, 2018
+update 23:15 May 27th, 2018
 
 请使用 https://htmlpreview.github.io/ 检查自己网页作业谢谢。
 
@@ -64,7 +64,7 @@ update 23:00 May 27th, 2018
 |[17302010049](https://github.com/126pikaqiu/fdu-17ss-web-lab)|通过|
 |[17302010050](https://github.com/xiaxia112/fdu-17ss-web-lab)|请好好读书|
 |[17302010051](https://github.com/MrYangHui/fdu-17ss-web-lab )|通过|
-|[17302010052](https://github.com/zhanghaozhang/fdu-17ss-web-lab )|li tag|
+|[17302010052](https://github.com/zhanghaozhang/fdu-17ss-web-lab )|通过|
 |[17302010053](https://github.com/zhsyy/fdu-17ss-web-lab )|基本过关|
 |[17302010054](https://github.com/erica8)|通过|
 |[17302010055](https://github.com/17302010055/fdu-17ss-web-lab )|基本过关|
