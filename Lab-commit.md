@@ -2,12 +2,12 @@ Lab-提交情况
 ---------------
 请使用 https://htmlpreview.github.io/ 检查自己网页作业谢谢。
 
-|学号|LAB-02|
-|---|---|
+|学号|LAB-02|LAB-03|
+|---|---|---|
 |12302010006||
 |[13302016004](https://github.com/13302016004/fdu-17ss-lab)|基本过关|
 |[14307110165](https://github.com/huohuayuzhong/fdu-17ss-web-lab)|基本过关|
-|[15302016001](https://github.com/HarryParkKR)|未提交/提交失败|
+|[15302016001](https://github.com/HarryParkKR/LAB)|通过|
 |16302010081||
 |[16307110064](https://github.com/StrayBird-ATSH/fdu-17ss-web-lab)|通过|
 |[16307110476](https://github.com/xinyuetang/17ssWebLab)|通过|
@@ -46,7 +46,7 @@ Lab-提交情况
 |[17302010033](https://github.com/zhan-zhai/fdu-17ss-web-lab)|通过|
 |[17302010034](https://github.com/ddf1826120803/DDF-WebLab)|通过|
 |[17302010035](https://github.com/17302010035/17302010035_lab02)|通过|
-|[17302010036](https://github.com/ShiningSelina/Lab)|请好好读书|
+|[17302010036](https://github.com/ShiningSelina/Lab)|通过|
 |[17302010037](https://github.com/DarkSpooky/fdu-17ss-web-lab)|通过|
 |[17302010038](https://github.com/whw19991003/fdu-17ss-web-lab )|通过|
 |[17302010039](https://github.com/Kyle-Dwyer)|通过|
