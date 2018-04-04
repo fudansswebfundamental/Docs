@@ -125,16 +125,16 @@ Lab-提交情况
 |[17302010013](https://github.com/olnytowalk/Lab)|通过|
 |[17302010014](https://github.com/Vkshiki/fdu-17ss-web-lab)|通过|
 |[17302010015](https://github.com/shixiaji/lab)|通过|
-|[17302010016](https://github.com/ppsh41/lab2)|未实现导航栏超链接悬浮变色|
+|[17302010016](https://github.com/ppsh41/lab2)|通过|
 |[17302010017](https://github.com/CrazyBlueStorm/17302010017)|通过|
 |[17302010018](https://github.com/UOHZYRAHCAZ/fdu-17ss-web-lab)|通过|
 |[17302010019](https://github.com/LiuJian000/fdu-17ss-web-lab)|未实现导航栏超链接悬浮变色|
 |[17302010020](https://github.com/HeroXMK/fdu-17ss-web-lab)|通过|
 |[17302010021](https://github.com/linchenlinchen/fdu-17ss-web-lab)|通过|
-|[17302010022](https://github.com/17sslinguopeng/lab02)|未提交/提交失败|
+|[17302010022](https://github.com/17sslinguopeng/lab02)|通过|
 |[17302010023](https://github.com/17ssyanmoufu/2018web)|通过|
 |[17302010024](https://github.com/Jedar/fdu-17ss-web-lab)|通过|
-|[17302010025](https://github.com/FDChongLi/Lab)|未提交/提交失败|
+|[17302010025](https://github.com/FDChongLi/Lab)|通过|
 |[17302010026](https://github.com/17ssDP/fdu-17ss-web-lab)|通过|
 |[17302010027](https://github.com/gjfang/fdu-17ss-web-lab)|通过|
 |[17302010028](https://github.com/250here/fdu-17ss-web-lab)|通过
@@ -159,7 +159,7 @@ Lab-提交情况
 |[17302010047](https://github.com/AkashicLog/lab)|基本过关|
 |[17302010048](https://github.com/Dxenlo/fdu-17ss-web-lab)|通过|
 |[17302010049](https://github.com/126pikaqiu/fdu-17ss-web-lab)|通过|
-|[17302010050](https://github.com/xiaxia112/fdu-17ss-web-lab)|%5 的留空未实现|
+|[17302010050](https://github.com/xiaxia112/fdu-17ss-web-lab)|基本通过|
 |[17302010051](https://github.com/MrYangHui/fdu-17ss-web-lab)|通过|
 |[17302010052](https://github.com/zhanghaozhang/fdu-17ss-web-lab)|通过|
 |[17302010053](https://github.com/zhsyy/fdu-17ss-web-lab)|通过|
@@ -184,7 +184,7 @@ Lab-提交情况
 |[17302010072](https://github.com/MrYiDing/fdu-17ss-web-lab)|基本过关|
 |[17302010073](https://github.com/humenghan/Lab-Homework)|通过|
 |[17302010074](https://github.com/Rheashizhou/Lab)|通过|
-|[17302010075](https://github.com/lsumx/Lab)|图片路径错误|
+|[17302010075](https://github.com/lsumx/Lab)|通过|
 |[17302010076](https://github.com/zyhlx/fdu-17ss-web-lab)|通过|
 |[17302010077](https://github.com/HXX5656/lab)|通过|
 |[17302010078](https://github.com/NNNlemon/fdu-17ss-web-lab)|通过|
