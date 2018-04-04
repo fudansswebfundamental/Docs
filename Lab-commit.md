@@ -114,7 +114,7 @@ Lab-提交情况
 |[17302010002](https://github.com/HNoodles/fdu-17ss-web-lab)|通过|
 |[17302010003](https://github.com/Kosphere/fdu-17ss-web-lab)|通过|
 |[17302010004](https://github.com/MickeysClubhouse/Lab)|通过|
-|[17302010005](https://github.com/LHQ005/fdu-17ss-web-lab)|未提交/提交失败|
+|[17302010005](https://github.com/LHQ005/fdu-17ss-web-lab)|基本通过|
 |[17302010006](https://github.com/zxylalalalala/fdu-17ss-web-lab)|通过|
 |[17302010007](https://github.com/whisIS/fdu-17ss-web-lab)|通过|
 |[17302010008](https://github.com/smiaok/LAB)|通过|
