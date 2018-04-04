@@ -2,8 +2,8 @@ Lab-提交情况
 ---------------
 请使用 https://htmlpreview.github.io/ 检查自己网页作业谢谢。
 
-|学号|LAB-02|LAB-03|
-|---|---|---|
+|学号|LAB-02|
+|---|---|
 |12302010006||
 |[13302016004](https://github.com/13302016004/fdu-17ss-lab)|基本过关|
 |[14307110165](https://github.com/huohuayuzhong/fdu-17ss-web-lab)|基本过关|
@@ -36,7 +36,7 @@ Lab-提交情况
 |[17302010023](https://github.com/17ssyanmoufu/2018web)|通过|
 |[17302010024](https://github.com/Jedar/fdu-17ss-web-lab )|通过|
 |[17302010025](https://github.com/FDChongLi/Lab)|通过|
-|[17302010026](https://github.com/17ssDP/fdu-17ss-web-lab)|未提交/提交失败|
+|[17302010026](https://github.com/17ssDP/fdu-17ss-web-lab)|通过|
 |[17302010027](https://github.com/gjfang/fdu-17ss-web-lab )|通过|
 |[17302010028](https://github.com/250here/fdu-17ss-web-lab )|通过|
 |[17302010029](https://github.com/Lu-yq/Lab2-Lu)|基本过关|
