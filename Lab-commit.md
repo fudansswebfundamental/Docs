@@ -156,7 +156,7 @@ Lab-提交情况
 |[17302010044](https://github.com/LinXQ990923/webLab)|通过|
 |[17302010045](https://github.com/17302010045/fdu-17ss-web-lab)|未提交/提交失败|
 |[17302010046](https://github.com/chenyu233/Lab)|通过|
-|[17302010047](https://github.com/AkashicLog/lab)|基本过关|
+|[17302010047](https://github.com/AkashicLog/lab)|通过|
 |[17302010048](https://github.com/Dxenlo/fdu-17ss-web-lab)|通过|
 |[17302010049](https://github.com/126pikaqiu/fdu-17ss-web-lab)|通过|
 |[17302010050](https://github.com/xiaxia112/fdu-17ss-web-lab)|基本通过|
