@@ -145,7 +145,7 @@ Lab-提交情况
 |[17302010033](https://github.com/zhan-zhai/fdu-17ss-web-lab)|通过|
 |[17302010034](https://github.com/ddf1826120803/DDF-WebLab)|通过|
 |[17302010035](https://github.com/17302010035/17302010035_lab03)|通过|
-|[17302010036](https://github.com/ShiningSelina/Lab)|未实现导航栏超链接悬浮变色|
+|[17302010036](https://github.com/ShiningSelina/Lab)|通过|
 |[17302010037](https://github.com/DarkSpooky/fdu-17ss-web-lab)|通过|
 |[17302010038](https://github.com/whw19991003/fdu-17ss-web-lab)|通过|
 |[17302010039](https://github.com/Kyle-Dwyer)|通过|
