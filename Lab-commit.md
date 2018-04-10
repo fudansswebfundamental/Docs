@@ -66,7 +66,7 @@ Lab-提交情况
 |[17302010053](https://github.com/zhsyy/fdu-17ss-web-lab )|基本过关|通过|
 |[17302010054](https://github.com/erica8/fdu-17ss-web-lab)|通过|CSS-404|
 |[17302010055](https://github.com/17302010055/fdu-17ss-web-lab )|基本过关|通过|
-|[17302010056](https://github.com/ShanHuaSHa/fdu-17ss-web-lab )|通过|CSS-404|
+|[17302010056](https://github.com/ShanHuaSHa/fdu-17ss-web-lab )|通过|通过|
 |[17302010057](https://github.com/HuDanMonster/fdu-17ss-web-lab)|通过|通过|
 |[17302010058](https://github.com/fudanwangqidi/fdu-17ss-web-lab )|通过|通过|
 |[17302010059](https://github.com/claerlove1/fdu-17ss-web-lab )|通过|通过|
@@ -82,7 +82,7 @@ Lab-提交情况
 |[17302010069](https://github.com/fd17302010069/fdu-17ss-web-lab )|通过|通过|
 |[17302010070](https://github.com/LALASeason/fdu-17ss-web-lab)|通过|通过|
 |[17302010071](https://github.com/xiaoxiaobai173020/fdu-17ss-web-lab)|通过|通过|
-|[17302010072](https://github.com/MrYiDing/fdu-17ss-web-lab)|绝对路径|CSS-404|
+|[17302010072](https://github.com/MrYiDing/fdu-17ss-web-lab)|绝对路径|通过|
 |[17302010073](https://github.com/humenghan/Lab-Homework)|通过|通过|
 |[17302010074](https://github.com/Rheashizhou/Lab)|通过|通过|
 |[17302010075](https://github.com/lsumx/Lab)|通过|通过|
