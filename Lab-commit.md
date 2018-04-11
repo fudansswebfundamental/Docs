@@ -64,7 +64,7 @@ Lab-提交情况
 |[17302010051](https://github.com/MrYangHui/fdu-17ss-web-lab )|通过|通过|
 |[17302010052](https://github.com/zhanghaozhang/fdu-17ss-web-lab )|通过|通过|
 |[17302010053](https://github.com/zhsyy/fdu-17ss-web-lab )|基本过关|通过|
-|[17302010054](https://github.com/erica8/fdu-17ss-web-lab)|通过|CSS-404|
+|[17302010054](https://github.com/erica8/fdu-17ss-web-lab)|通过|通过|
 |[17302010055](https://github.com/17302010055/fdu-17ss-web-lab )|基本过关|通过|
 |[17302010056](https://github.com/ShanHuaSHa/fdu-17ss-web-lab )|通过|通过|
 |[17302010057](https://github.com/HuDanMonster/fdu-17ss-web-lab)|通过|通过|
