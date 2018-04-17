@@ -39,7 +39,7 @@ Lab-提交情况
 |[17302010026](https://github.com/17ssDP/fdu-17ss-web-lab)|通过|通过|
 |[17302010027](https://github.com/gjfang/fdu-17ss-web-lab )|通过|通过|几乎全错|
 |[17302010028](https://github.com/250here/fdu-17ss-web-lab )|通过|通过|通过|
-|[17302010029](https://github.com/Lu-yq/Lab2-Lu)|基本过关|通过|几乎全错|
+|[17302010029](https://github.com/Lu-yq/Lab2-Lu)|基本过关|通过|基本通过|
 |[17302010030](https://github.com/Shenjiahui/17302010030)|通过|通过|基本过关|
 |[17302010031](https://github.com/yongli0510/fdu-17ss-web-lab )|通过|通过|基本过关|
 |[17302010032](https://github.com/FDYZHao/fdu-17ss-web-lab )|通过|通过|
