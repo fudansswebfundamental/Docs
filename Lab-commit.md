@@ -49,7 +49,7 @@ Lab-提交情况
 |[17302010036](https://github.com/ShiningSelina/Lab)|通过|通过|基本过关|
 |[17302010037](https://github.com/DarkSpooky/fdu-17ss-web-lab)|通过|通过|基本过关|
 |[17302010038](https://github.com/whw19991003/fdu-17ss-web-lab )|通过|通过|通过|
-|[17302010039](https://github.com/Kyle-Dwyer)|通过|通过|基本过关|
+|[17302010039](https://github.com/Kyle-Dwyer)|通过|通过|通过|
 |[17302010040](https://github.com/17302010040/Lab)|通过|CSS-404|基本过关|
 |[17302010041](https://github.com/fd17302010041/lab2)|通过|通过|基本过关|
 |[17302010042](https://github.com/xyt111/Lab2)|通过|通过|通过|
