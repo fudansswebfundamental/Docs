@@ -2,9 +2,9 @@ Lab-提交情况
 ---------------
 请使用 https://htmlpreview.github.io/ 检查自己网页作业谢谢。
 
-|学号|LAB-02|Lab-04|
-|---|---|---|
-|12302010006|||
+|学号|LAB-02|Lab-04|Lab-05|
+|---|---|---|---|
+|12302010006||||
 |[13302016004](https://github.com/13302016004/fdu-17ss-lab)|基本过关|账号消失|
 |[14307110165](https://github.com/huohuayuzhong/fdu-17ss-web-lab)|基本过关|通过|
 |[15302016001](https://github.com/HarryParkKR/LAB)|通过|未提交/提交失败|
@@ -20,7 +20,7 @@ Lab-提交情况
 |[17302010007](https://github.com/whisIS/lab)|通过|通过|
 |[17302010008](https://github.com/smiaok/LAB)|通过|通过|
 |[17302010009](https://github.com/lyf21/17ss-Web-Lab)|通过|CSS-404|
-|[17302010010](https://github.com/Reimugo/fdu-17ss-web-lab )|通过|未提交/提交失败|
+|[17302010010](https://github.com/Reimugo/fdu-17ss-web-lab )|通过|通过|
 |[17302010011](https://github.com/TMXwxm/fdu-17ss-web-lab )|通过|通过|
 |[17302010012](https://github.com/SyIar/fdu-17ss-web-lab )|通过|通过|
 |[17302010013](https://github.com/olnytowalk/Lab)|通过|通过|
@@ -119,7 +119,7 @@ Lab-提交情况
 |[17302010007](https://github.com/whisIS/fdu-17ss-web-lab)|通过|
 |[17302010008](https://github.com/smiaok/LAB)|通过|
 |[17302010009](https://github.com/lyf21/17ss-Web-Lab)|通过|
-|[17302010010](https://github.com/Reimugo/fdu-17ss-web-lab)|未提交/提交失败|
+|[17302010010](https://github.com/Reimugo/fdu-17ss-web-lab)|通过|
 |[17302010011](https://github.com/TMXwxm/fdu-17ss-web-lab)|通过|
 |[17302010012](https://github.com/SyIar/fdu-17ss-web-lab)|通过|
 |[17302010013](https://github.com/olnytowalk/Lab)|通过|
