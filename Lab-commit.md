@@ -29,7 +29,7 @@ Lab-提交情况
 |[17302010016](https://github.com/ppsh41/lab2)|h1, h2, h3, h4, h5 & head|通过|基本过关|基本过关|
 |[17302010017](https://github.com/CrazyBlueStorm/17302010017)|通过|通过|通过|基本过关|
 |[17302010018](https://github.com/UOHZYRAHCAZ/fdu-17ss-web-lab )|通过|通过|通过|基本过关|
-|[17302010019](https://github.com/LiuJian000/fdu-17ss-web-lab)|通过|未实现导航栏超链接悬浮变色|通过|基本过关|
+|[17302010019](https://github.com/LiuJian000/fdu-17ss-web-lab)|通过|通过|通过|基本过关|
 |[17302010020](https://github.com/HeroXMK/fdu-17ss-web-lab )|基本过关|通过|通过|基本过关|
 |[17302010021](https://github.com/linchenlinchen/fdu-17ss-web-lab )|通过|通过|通过|基本过关|
 |[17302010022](https://github.com/17sslinguopeng/lab02)|通过|通过|通过|基本过关|
