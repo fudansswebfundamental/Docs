@@ -5,7 +5,7 @@ Lab-提交情况
 |学号|LAB-02|Lab-04|Lab-05|
 |---|---|---|---|
 |12302010006|||||
-|[13302016004](https://github.com/13302016004/fdu-17ss-lab)|基本过关|账号消失||
+|[13302016004](https://github.com/qkrsh0424/fdu-17ss-web-lab)|基本过关|通过|通过|
 |[14307110165](https://github.com/huohuayuzhong/fdu-17ss-web-lab)|基本过关|通过|通过|
 |[15302016001](https://github.com/HarryParkKR/LAB)|通过|未提交/提交失败|通过|
 |16302010081|||
@@ -16,7 +16,7 @@ Lab-提交情况
 |[17302010003](https://github.com/Kosphere/fdu-17ss-web-lab)|通过|通过|通过|
 |[17302010004](https://github.com/MickeysClubhouse/Lab)|通过|CSS-404|通过|
 |[17302010005](https://github.com/LHQ005/fdu-17ss-web-lab)|基本过关|通过|基本过关|
-|[17302010006](https://github.com/zxylalalalala/fdu-17ss-web-lab)|通过|CSS-地址错误|基本过关|
+|[17302010006](https://github.com/zxylalalalala/fdu-17ss-web-lab)|通过|通过|基本过关|
 |[17302010007](https://github.com/whisIS/lab)|通过|通过|通过|
 |[17302010008](https://github.com/smiaok/LAB)|通过|通过|通过|
 |[17302010009](https://github.com/lyf21/17ss-Web-Lab)|通过|CSS-404|活在自己世界里|
@@ -35,7 +35,7 @@ Lab-提交情况
 |[17302010022](https://github.com/17sslinguopeng/lab02)|通过|通过|基本过关|
 |[17302010023](https://github.com/17ssyanmoufu/2018web)|通过|通过|通过|
 |[17302010024](https://github.com/Jedar/fdu-17ss-web-lab )|通过|通过|通过|
-|[17302010025](https://github.com/FDChongLi/Lab)|通过|通过|基本过关|
+|[17302010025](https://github.com/FDChongLi/Lab)|通过|通过|通过|
 |[17302010026](https://github.com/17ssDP/fdu-17ss-web-lab)|通过|通过|通过|
 |[17302010027](https://github.com/gjfang/fdu-17ss-web-lab )|通过|通过|基本通过|
 |[17302010028](https://github.com/250here/fdu-17ss-web-lab )|通过|通过|通过|
@@ -45,7 +45,7 @@ Lab-提交情况
 |[17302010032](https://github.com/FDYZHao/fdu-17ss-web-lab )|通过|通过|基本通过|
 |[17302010033](https://github.com/zhan-zhai/fdu-17ss-web-lab)|通过|通过|通过|
 |[17302010034](https://github.com/ddf1826120803/DDF-WebLab)|通过|通过|基本过关|
-|[17302010035](https://github.com/17302010035/17302010035_lab02)|通过|CSS-地址错误|通过|
+|[17302010035](https://github.com/17302010035/17302010035_lab02)|通过|通过|通过|
 |[17302010036](https://github.com/ShiningSelina/Lab)|通过|通过|基本过关|
 |[17302010037](https://github.com/DarkSpooky/fdu-17ss-web-lab)|通过|通过|基本过关|
 |[17302010038](https://github.com/whw19991003/fdu-17ss-web-lab )|通过|通过|通过|
