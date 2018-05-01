@@ -1,0 +1,17 @@
+{
+  "name": "hello-koa",
+  "version": "1.0.0",
+  "description": "a demo of koa2",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "koa2"
+  ],
+  "author": "syang2forever",
+  "license": "MIT",
+  "dependencies": {
+    "koa2": "^2.0.0-alpha.7"
+  }
+}
