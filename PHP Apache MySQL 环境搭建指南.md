@@ -51,6 +51,42 @@
 
 ## macOS
 
+### 下载 MAMP
+
+访问 [XAMPP 官方网站](https://www.mamp.info/en/downloads/)
+
+在macOS标签下选择下载 [Download](https://downloads10.mamp.info/MAMP-PRO/releases/4.4.1/MAMP_MAMP_PRO_4.4.1.pkg)
+
+如果下载速度太慢，你也可以选择下载 TA 放在百度云上的安装程序：
+
+链接:https://pan.baidu.com/s/1wF_bK7FIxYdRl7rAdX3DxA  密码:yym9
+
+### 安装MAMP
+
+双击安装程序 **MAMP_MAMP_PRO_4.4.1.pkg**，一路点击continue，等待安装完成即可。在过程中可以选择安装位置，一般来说默认不用改。
+
+安装完成后启动MAMP（注意不是MAMP PRO），看到如下界面:
+
+![mamp_start](pictures/mamp_start.png)
+
+### 使用 MAMP
+
+首先按下组合快捷键 `command + ,` ，进入设置界面：
+
+![mamp_setting](pictures/mamp_setting.png)
+
+选择Ports页下的**Set Web & MySQL ports to 80 & 3306**，点击**OK**。
+
+点击主界面中的**Start Servers**，等到右上角的`Apache Server`和`MySQL Server`都亮起来之后，表示服务已经打开。
+
+打开浏览器，在地址栏输入 `localhost` 或 `127.0.0.1`，即可看到如下界面：
+
+![mamp_localhost](pictures/mamp_localhost.png)
+
+通过在浏览器地址栏输入http://localhost/MAMP/index.php?page=phpmyadmin&language=English，可以进入MySQL管理界面：
+
+![mamp_phpmyadmin](pictures/mamp_phpmyadmin.png)
+
 ## Linux
 
 既然是选择使用 Linux 的大佬，请自行 `百度` / `Google` 解决相应方案
