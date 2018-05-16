@@ -61,11 +61,11 @@
 
 链接:https://pan.baidu.com/s/1wF_bK7FIxYdRl7rAdX3DxA  密码:yym9
 
-### 安装MAMP
+### 安装 MAMP
 
-双击安装程序 **MAMP_MAMP_PRO_4.4.1.pkg**，一路点击continue，等待安装完成即可。在过程中可以选择安装位置，一般来说默认不用改。
+双击安装程序 **MAMP_MAMP_PRO_4.4.1.pkg**，一路点击 continue，等待安装完成即可。在过程中可以选择安装位置，一般来说默认不用改。
 
-安装完成后启动MAMP（注意不是MAMP PRO），看到如下界面:
+安装完成后启动 MAMP（注意不是MAMP PRO），看到如下界面:
 
 ![mamp_start](pictures/mamp_start.png)
 
@@ -77,7 +77,7 @@
 
 选择Ports页下的 **Set Web & MySQL ports to 80 & 3306**，点击 **OK**。
 
-点击主界面中的**Start Servers**，等到右上角的 `Apache Server` 和 `MySQL Server` 都亮起来之后，表示服务已经打开。
+点击主界面中的 **Start Servers**，等到右上角的 `Apache Server` 和 `MySQL Server` 都亮起来之后，表示服务已经打开。
 
 打开浏览器，在地址栏输入 `localhost` 或 `127.0.0.1`，即可看到如下界面：
 
