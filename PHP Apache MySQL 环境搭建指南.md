@@ -10,7 +10,7 @@
 
 如果下载速度太慢，你也可以选择下载 TA 放在百度云上的安装程序：
 
-链接：[https://pan.baidu.com/s/1x-tNvd48U8ifZtxjuEuTpg](https://pan.baidu.com/s/1x-tNvd48U8ifZtxjuEuTpg) 密码：6fto
+链接：https://pan.baidu.com/s/1x-tNvd48U8ifZtxjuEuTpg 密码：6fto
 
 ### 安装 XAMPP
 
@@ -53,9 +53,9 @@
 
 ### 下载 MAMP
 
-访问 [XAMPP 官方网站](https://www.mamp.info/en/downloads/)
+访问 [MAMP 官方网站](https://www.mamp.info/en/downloads/)
 
-在macOS标签下选择下载 [Download](https://downloads10.mamp.info/MAMP-PRO/releases/4.4.1/MAMP_MAMP_PRO_4.4.1.pkg)
+在 macOS 标签下选择下载 [Download](https://downloads10.mamp.info/MAMP-PRO/releases/4.4.1/MAMP_MAMP_PRO_4.4.1.pkg)
 
 如果下载速度太慢，你也可以选择下载 TA 放在百度云上的安装程序：
 
@@ -73,19 +73,19 @@
 
 首先按下组合快捷键 `command + ,` ，进入设置界面：
 
-![mamp_setting](pictures/mamp_setting.png)
+![mamp_setting](./pictures/mamp_setting.png)
 
-选择Ports页下的**Set Web & MySQL ports to 80 & 3306**，点击**OK**。
+选择Ports页下的 **Set Web & MySQL ports to 80 & 3306**，点击 **OK**。
 
-点击主界面中的**Start Servers**，等到右上角的`Apache Server`和`MySQL Server`都亮起来之后，表示服务已经打开。
+点击主界面中的**Start Servers**，等到右上角的 `Apache Server` 和 `MySQL Server` 都亮起来之后，表示服务已经打开。
 
 打开浏览器，在地址栏输入 `localhost` 或 `127.0.0.1`，即可看到如下界面：
 
-![mamp_localhost](pictures/mamp_localhost.png)
+![mamp_localhost](./pictures/mamp_localhost.png)
 
-通过在浏览器地址栏输入http://localhost/MAMP/index.php?page=phpmyadmin&language=English，可以进入MySQL管理界面：
+通过在浏览器地址栏输入 [http://localhost/MAMP/index.php?page=phpmyadmin&language=English](http://localhost/MAMP/index.php?page=phpmyadmin&language=English)，可以进入MySQL管理界面：
 
-![mamp_phpmyadmin](pictures/mamp_phpmyadmin.png)
+![mamp_phpmyadmin](./pictures/mamp_phpmyadmin.png)
 
 ## Linux
 
