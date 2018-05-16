@@ -15,7 +15,7 @@ Lab-提交情况
 |[17302010002](https://github.com/HNoodles/fdu-17ss-web-lab)|通过|通过|通过|通过|通过|
 |[17302010003](https://github.com/Kosphere/fdu-17ss-web-lab)|通过|通过|通过|通过|通过|
 |[17302010004](https://github.com/MickeysClubhouse/Lab)|通过|通过|通过|通过|通过|
-|[17302010005](https://github.com/LHQ005/fdu-17ss-web-lab)|基本过关|基本过关|通过|基本过关|路径错误|
+|[17302010005](https://github.com/LHQ005/fdu-17ss-web-lab)|基本过关|基本过关|通过|基本过关|通过|
 |[17302010006](https://github.com/zxylalalalala/fdu-17ss-web-lab)|通过|通过|通过|基本过关|通过|
 |[17302010007](https://github.com/whisIS/lab)|通过|通过|通过|通过|通过|
 |[17302010008](https://github.com/smiaok/LAB)|通过|通过|通过|通过|通过|
@@ -61,11 +61,11 @@ Lab-提交情况
 |[17302010048](https://github.com/Dxenlo/fdu-17ss-web-lab)|通过|通过|通过|基本过关|通过|
 |[17302010049](https://github.com/126pikaqiu/fdu-17ss-web-lab)|通过|通过|通过|基本过关|通过|
 |[17302010050](https://github.com/xiaxia112/fdu-17ss-web-lab)|请好好读书|基本通过|通过|通过|通过|
-|[17302010051](https://github.com/MrYangHui/fdu-17ss-web-lab)|通过|通过|通过|基本过关|css路径|
+|[17302010051](https://github.com/MrYangHui/fdu-17ss-web-lab)|通过|通过|通过|基本过关|通过|
 |[17302010052](https://github.com/zhanghaozhang/fdu-17ss-web-lab)|通过|通过|通过|基本过关|通过|
 |[17302010053](https://github.com/zhsyy/fdu-17ss-web-lab)|基本过关|通过|通过|通过|通过|
 |[17302010054](https://github.com/erica8/fdu-17ss-web-lab)|通过|通过|通过|基本过关|通过|
-|[17302010055](https://github.com/17302010055/fdu-17ss-web-lab)|基本过关|通过|通过|通过|css路径错误|
+|[17302010055](https://github.com/17302010055/fdu-17ss-web-lab)|基本过关|通过|通过|通过|通过|
 |[17302010056](https://github.com/ShanHuaSHa/fdu-17ss-web-lab)|通过|基本通过|通过|通过|通过|
 |[17302010057](https://github.com/HuDanMonster/fdu-17ss-web-lab)|通过|通过|通过|通过|通过|
 |[17302010058](https://github.com/fudanwangqidi/fdu-17ss-web-lab)|通过|基本通过|通过|基本过关|通过|
