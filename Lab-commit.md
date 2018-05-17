@@ -73,7 +73,7 @@ Lab-提交情况
 |[17302010060](https://github.com/chenghgh/fdu-17ss-web-lab)|通过|通过|通过|基本过关|通过|
 |[17302010061](https://github.com/lzhnl/web1-17302010061)|通过|未提交/提交失败|通过|通过|基本过关|
 |[17302010062](https://github.com/InaYan/lab2)|通过|通过|通过|通过|通过|
-|[17302010063](https://github.com/Currycurrycurry/fdu-17ss-web-lab)|通过|通过|通过|基本过关|基本过关|
+|[17302010063](https://github.com/Currycurrycurry/fdu-17ss-web-lab)|通过|通过|通过|基本过关|通过|
 |[17302010064](https://github.com/comingwinter1234/labwork)|通过|通过|通过|基本过关|通过|
 |[17302010065](https://github.com/Achillessanger/Lab)|通过|通过|通过|基本过关|通过|
 |[17302010066](https://github.com/programmerwcn/lab-17302010066)|通过|通过|通过|基本过关|通过|
@@ -82,7 +82,7 @@ Lab-提交情况
 |[17302010069](https://github.com/fd17302010069/fdu-17ss-web-lab)|通过|通过|通过|基本过关|通过|
 |[17302010070](https://github.com/LALASeason/fdu-17ss-web-lab)|通过|通过|通过|基本过关|通过|
 |[17302010071](https://github.com/xiaoxiaobai173020/fdu-17ss-web-lab)|通过|通过|通过|通过|通过|
-|[17302010072](https://github.com/MrYiDing/fdu-17ss-web-lab)|绝对路径|基本过关|通过|基本过关|路径错误|
+|[17302010072](https://github.com/MrYiDing/fdu-17ss-web-lab)|绝对路径|基本过关|通过|基本过关|通过|
 |[17302010073](https://github.com/humenghan/Lab-Homework)|通过|通过|通过|基本过关|通过|
 |[17302010074](https://github.com/Rheashizhou/Lab)|通过|通过|通过|基本过关|通过|
 |[17302010075](https://github.com/lsumx/Lab)|通过|通过|通过|基本过关|通过|
