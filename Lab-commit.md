@@ -23,7 +23,7 @@ Lab-提交情况
 |[17302010010](https://github.com/Reimugo/legendary-homework)|通过|通过|通过|通过|通过|
 |[17302010011](https://github.com/TMXwxm/fdu-17ss-web-lab)|通过|通过|通过|基本过关|通过|
 |[17302010012](https://github.com/SyIar/fdu-17ss-web-lab)|通过|通过|通过|通过|通过|
-|[17302010013](https://github.com/olnytowalk/Lab)|通过|通过|通过|基本过关|css文件未更新|
+|[17302010013](https://github.com/olnytowalk/Lab)|通过|通过|通过|基本过关|通过|
 |[17302010014](https://github.com/Vkshiki/fdu-17ss-web-lab)|通过|通过|通过|通过|通过|
 |[17302010015](https://github.com/shixiaji/lab)|通过|通过|通过|缺少轮播|通过|
 |[17302010016](https://github.com/ppsh41/lab2)|h1, h2, h3, h4, h5 & head|通过|基本过关|基本过关|通过|
