@@ -44,6 +44,27 @@ Date:   Mon Mar 12 10:23:23 2018 +0800
 - Linux(CentOS) `sudo yum install git-core`
 - Linux(Ubuntu) `sudo apt-get install git`
 
+### Git 初始化
+
+在第一次使用 git 的时候，需要配置个人信息，具体配置方式如下，打开命令行界面：
+
+```shell
+# 设置用户名字
+git config --global user.name "web"
+# 设置用户邮箱
+git config --global user.email web@example.com
+
+# 显示配置信息
+git config --global --list
+# 如果命令行上显示如下输入，即表示配置成功
+# user.email=web@example.com
+# user.name=web
+```
+
+TA 的示范操作如下：
+
+![git config](./pictures/git_config.png)
+
 ## GitHub
 
 ### Github 是什么
@@ -114,15 +135,46 @@ git commit -m "infomation"
 git push
 ```
 
-其中，`git add ./*` 表示提交所有文件到缓冲区，当然你也可以只提交部分文件 `git add xxx.xxx`；然后 `commit` 表示一次提交，`-m "xxxxx"` 表示这次提交的注释，是必不可少的。最后的 `git push` 表示将代码同步到远程仓库。
+其中，`git add ./*` 表示提交所有文件到缓冲区，当然你也可以只提交部分文件：`git add xxx.xxx`。
+
+然后 `commit` 表示一次提交，`-m "xxxxx"` 表示这次提交的注释，是必不可少的。
+
+最后的 `git push` 表示将代码同步到远程仓库。
 
 ![push](./pictures/push.png)
 
-当然，上面的三步操作是为了简化操作，操作的具体含义需要你们自己查阅相应文档，可以参考 [常用 Git 命令清单](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html)
+当然，上面的三步操作是为了简化操作，想要了解操作的具体含义需要你们自己查阅相应文档，如有需要，可以参考 [常用 Git 命令清单](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html)
+
+### 同步每次的 lab 作业文件
+
+为了方便获取每次的 lab 更新，可以运行如下命令：
+
+```shell
+# add remote 
+git remote add release https://github.com/fudansswebfundamental/fdu-18ss-web-lab.git
+# show remote
+git remote -v
+```
+
+![git remote](./pictures/git_remote.png)
+
+在这之后，如果每次有新的作业布置时，你可以通过运行如下命令方便地获取到更新的 lab 文件：
+
+```shell
+git pull release master
+```
+
+操作示范如下：
+
+![git remote pull](./pictures/git_remote_pull.png)
 
 ## 结语
 
 如果你对编程有着强烈兴趣的话，那么 GitHub 绝对是个 veryoc 的网站，just enjoy it!!!
+
+虽然 git 的起步可能有一定的难度，但这种难度时可以通过上网查阅文档、请教 TA 等方式克服的！请务必再努力一下！
+
+![yeah](./pictures/yeah.jpg)
 
 ## 参考链接
 
